@@ -89,6 +89,7 @@ ul {
   outline: #3B0B0B dotted thick;
   transition: 0.75s;
   opacity: 1;
+  width: 20%
 }
 
 .minBackgroundSneak {
@@ -113,8 +114,8 @@ ul {
 }
 
 .minPigTile {
-  width: 250px;
-  height: 250px;
+  width: 90%;
+  height: relative;
   background-size: cover;
 }
 
